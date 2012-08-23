@@ -1,0 +1,10 @@
+{
+    "require": {
+        "EHER/PHPUnit": "dev-master"
+    },
+    "autoload":{
+        "psr-0":{
+            "Kata":"lib/"
+        }
+    }
+}

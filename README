@@ -1,0 +1,5 @@
+If you don't have phpunit installed you can run:
+vendor/EHER/PHPUnit/bin/phpunit
+
+You also can create an alias:
+alias phpunit=vendor/EHER/PHPUnit/bin/phpunit
