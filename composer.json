@@ -1,4 +1,13 @@
 {
+    "name":"gonzalo123/phpkata",
+    "description":"PHP Coding Kata sandbox",
+    "authors":[
+        {
+            "name":"Gonzalo Ayuso",
+            "email":"gonzalo123@gmail.com",
+            "homepage":"http://gonzalo123.wordpress.com/"
+        }
+    ],
     "require": {
         "EHER/PHPUnit": "dev-master"
     },
