@@ -1,4 +1,4 @@
-* Install composer (if not)
+* Install composer (if not installed)
 
 ```
 curl -s https://getcomposer.org/installer | php
