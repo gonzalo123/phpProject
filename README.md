@@ -1,18 +1,23 @@
 * Install composer (if not)
+
 ```
 curl -s https://getcomposer.org/installer | php
 ```
+
 * create a new project (use your kata name instead 'kataName')
+
 ```
-* php composer.phar create-project gonzalo123/phpkata kataName
+php composer.phar create-project gonzalo123/phpkata kataName
 ```
 
 * change directory to the new kata directory:
+
 ```
 cd phpkata
 ```
 
 * Run unit tests:
+
 ```
 bin/phpunit
 ```
