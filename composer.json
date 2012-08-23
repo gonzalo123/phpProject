@@ -13,7 +13,10 @@
     },
     "autoload":{
         "psr-0":{
-            "Kata":"lib/"
+            "":"lib/"
         }
+    },
+    "config": {
+        "bin-dir": "bin"
     }
 }
