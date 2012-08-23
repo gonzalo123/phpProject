@@ -4,16 +4,16 @@
 curl -s https://getcomposer.org/installer | php
 ```
 
-* create a new project (use your kata name instead 'kataName')
+* create a new project (use your kata name instead 'kata')
 
 ```
-php composer.phar create-project gonzalo123/phpkata kataName
+php composer.phar create-project gonzalo123/phpkata kata
 ```
 
 * change directory to the new kata directory:
 
 ```
-cd phpkata
+cd kata
 ```
 
 * Run unit tests:
