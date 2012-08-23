@@ -3,7 +3,6 @@
 curl -s https://getcomposer.org/installer | php
 ```
 * create a new project (use your kata name instead 'kataName')
-
 ```
 * php composer.phar create-project gonzalo123/phpkata kataName
 ```
@@ -14,7 +13,6 @@ cd phpkata
 ```
 
 * Run unit tests:
-
 ```
 bin/phpunit
 ```
