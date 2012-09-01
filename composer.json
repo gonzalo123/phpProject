@@ -9,7 +9,6 @@
         }
     ],
     "require": {
-        "EHER/PHPUnit": "dev-master"
     },
     "autoload":{
         "psr-0":{
