@@ -1,12 +1,11 @@
-<?
+<?php
 use Kata\DeleteMe;
 
 class DeleteMeTest extends \PHPUnit_Framework_TestCase
 {
     public function testInstalation()
     {
-        $calculator = new DeleteMe();
-	$this->assertTrue(FALSE, "Red first");
+        $deleteMe = new DeleteMe();
+        $this->assertTrue(FALSE, "Test must be red first");
     }
-
 }
