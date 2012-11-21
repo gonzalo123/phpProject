@@ -9,7 +9,7 @@
         }
     ],
     "require": {
-        "EHER/PHPUnit": "dev-master"
+        "phpunit/phpunit": "3.7.x-dev"
     },
     "autoload":{
         "psr-0":{
