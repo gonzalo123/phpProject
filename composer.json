@@ -1,22 +1,32 @@
 {
-    "name":"gonzalo123/phpkata",
-    "description":"PHP Coding Kata sandbox",
+    "name":"gonzalo123/php",
+    "description":"Empty php project",
+
+    "type":"library",
+    "homepage":"https://github.com/gonzalo123/php",
+    "license":"MIT",
+
     "authors":[
         {
             "name":"Gonzalo Ayuso",
             "email":"gonzalo123@gmail.com",
-            "homepage":"http://gonzalo123.wordpress.com/"
+            "homepage":"http://gonzalo123.com"
         }
     ],
-    "require": {
-        "phpunit/phpunit": "3.7.x-dev"
+
+    "require-dev":{
+        "php":">=5.4.0",
+        "phpunit/phpunit":"3.7.x-dev",
+        "gonzalo123/fswatcher":"dev-master",
+        "gonzalo123/sh":"dev-master",
+        "evenement/evenement":"2.0.*",
+        "symfony/process":"dev-master",
+        "symfony/console":"dev-master"
     },
+
     "autoload":{
         "psr-0":{
             "":"lib/"
         }
-    },
-    "config": {
-        "bin-dir": "bin"
     }
 }
