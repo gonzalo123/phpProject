@@ -16,7 +16,6 @@
 
     "require-dev":{
         "php":">=5.4.0",
-        "phpunit/phpunit":"3.7.x-dev",
         "gonzalo123/fswatcher":"dev-master",
         "gonzalo123/sh":"dev-master",
         "gonzalo123/phpautotest":"dev-master",
