@@ -19,6 +19,7 @@
         "phpunit/phpunit":"3.7.x-dev",
         "gonzalo123/fswatcher":"dev-master",
         "gonzalo123/sh":"dev-master",
+        "gonzalo123/phpautotest":"3.7.x-dev",
         "evenement/evenement":"2.0.*",
         "symfony/process":"dev-master",
         "symfony/console":"dev-master"
