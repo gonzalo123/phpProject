@@ -1,9 +1,9 @@
 {
-    "name":"gonzalo123/php",
+    "name":"gonzalo123/phpProject",
     "description":"Empty php project",
 
     "type":"library",
-    "homepage":"https://github.com/gonzalo123/php",
+    "homepage":"https://github.com/gonzalo123/phpProject",
     "license":"MIT",
 
     "authors":[
